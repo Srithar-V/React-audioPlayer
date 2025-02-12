@@ -2,8 +2,8 @@ export let Audio_Bg = {
   Audio: [
     {
       song_name: "Annual Maelae",
-      song_url: "../src/assets/Song/Annul-Maelae-MassTamilan.com.mp3",
-      poster_url: "../src/assets/Song Poster/Annul-Maelae.jpg",
+      song_url: "./assets/Song/Annul-Maelae-MassTamilan.com.mp3",
+      poster_url: "./assets/Song Poster/Annul-Maelae.jpg",
     },
     {
       song_name: "Machaan Machaan",
