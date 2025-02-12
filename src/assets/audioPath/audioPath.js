@@ -2,7 +2,7 @@ export let Audio_Bg = {
   Audio: [
     {
       song_name: "Annual Maelae",
-      song_url: "./assets/Song/Annul-Maelae-MassTamilan.com.mp3",
+      song_url: "../src/assets/Song/Annul-Maelae-MassTamilan.com.mp3",
       poster_url: "./assets/Song Poster/Annul-Maelae.jpg",
     },
     {
@@ -54,7 +54,7 @@ export let Audio_Bg = {
 
   Bg: [
     {
-      imageBg: "../src/assets/Song Poster/imageBgOrange.jpeg",
+      imageBg: "./assets/Song Poster/imageBgOrange.jpeg",
       hoverColor: "white",
     },
     { imageBg: "../src/assets/Song Poster/imageBgBlue.jpeg",
